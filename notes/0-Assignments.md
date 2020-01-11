@@ -1,6 +1,17 @@
 
 # Assignments
 
+## Uploading HW to Github
+
+Using the repository we created in class.
+
+![Put the Homework Files in Folder](../slides/homework.jpg)
+![Commit the Changes and Push](../slides/commit.jpg)
+![Go to your repository on Gihub.com](../slides/gotogithub.jpg)
+![Visit your uploaded document](../slides/githublink.jpg)
+
+**If you make any additional changes please make sure to save and upload your assignment again**
+
 ## HTML/Resume Assignment
 
 Build a page with your information from your résumé. Your page must have the following content:
@@ -159,40 +170,16 @@ The following questions are a good guide for creating your plan. Please turn thi
 
 Add the Google Analytics script tag to your `index.html` file.
 
-## Final Deliverables
-* Website (300 Points)
-* Creative Brief (25 Points)
-* Wireframes/Sketches (25 Points)
-* Online Marketing and SEO Plan (25 Points)
-* Google Analytics (25 Points)
+### Grading
 
-
-
-  * Deploying/Presenting final website (50 Points)
-    * Minimum 3 gridded sections
-      * 4 Pages or
-      * 1 Page with 6 information sections
-
-  * Responsiveness Requirements (100 Points)
-    * Use of Media Queries
-    * Desktop and Mobile Layouts
-      * Navigation
-      * Main Layout
-    * Using CSS grid  
-  * jQuery and jQuery Plugins (50 Points)
-    * Use jQuery functions and plugins to add thoughtful interaction to your website
-  * Design/Creativity (100 Points)
-    * Making sure your images and content express the intent of your site
-    * Use HTML structure and semantic tags to provide information hierarchy
-    * Use CSS tags such as, colors, fonts, grid, etc to create a theme and design for your website.
-    * Use HTML and CSS tags to create professional design and layout for your project.
-    * Make sure that images are properly scaled and fit in your layout
-    * Content quality – Clear message (what are you trying to saying)
-
-### Creative Brief, Wireframe, inspirations
-
-In your final project folder, make sure you include the following information
-
-
-### Google analytics on your site (25 POINTS)
-
+|                                                                                                                                                                                                                                                                                                                          | Points |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| Creative Brief                                                                                                                                                                                                                                                                                                           | 25     |
+| Wireframes                                                                                                                                                                                                                                                                                                               | 25     |
+| Online marketing and SEO plan                                                                                                                                                                                                                                                                                            | 25     |
+| Google Analytics                                                                                                                                                                                                                                                                                                         | 25     |
+| <br>Deploying/Presenting final website:<ul><li>You must include a minimum of 3 grid sections</li><li>You must have either a 4-page site, or 1 page with 6 information sections</li></ul>                                                                                                                                 | 50     |
+| Responsiveness: <ul><li>Use media queries</li><li>Desktop and Mobile layouts</li><li>Use CSS grid</li></ul>                                                                                                                                                                                                              | 100    |
+| jQuery: Use jQuery functions and plugins to add thoughtful interaction to your website                                                                                                                                                                                                                                   | 50     |
+| Design and Creativity: Make sure your images and content express the intent of your site. Use HTML structure and semantic tags to organize your site and provide an information hierarchy. Use CSS tags to create a theme and design for your website. Make sure that images are properly scaled and fit in your layout. | 100    |
+| **Total Points**                                                                                                                                                                                                                                                                                                         | 400    |
