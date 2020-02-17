@@ -38,3 +38,8 @@ a:hover {
   background-color: pink;
   font-size: 50px;
 }
+
+.flan {
+  font-weight: 400;
+  color: orange;
+}

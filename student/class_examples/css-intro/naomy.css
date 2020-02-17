@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+  font-size: 21px;
+  line-height: 1.65;
+}
+
+h2 {
+  color: pink;
+}
+
+.my-name {
+  font-size: 120px;
+}
+
+.personal-projects {
+  text-decoration: underline;
+}
+
+.special {
+  background-color: pink;
+  color: blue;
+}
+
+.extra {
+  font-family: monospace;
+}
+
+.special.extra {
+  color: red;
+}
