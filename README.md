@@ -13,9 +13,12 @@ E-mail: [lennymartinezd@gmail.com](mailto:lennymartinezd@gmail.com)
 Office:
 
 * Communications International Building, 1053-D
-* McArthur Engineering Building, 502
 
 Office Hours: By appointment via [Calendly](https://calendly.com/lennymartinezd/meeting). I'm also available through Skype or Google Hangouts as needed.
+
+### Lecture videos
+
+You can see video recordings of each lecture in [**this playlist**](https://www.youtube.com/playlist?list=PLV6wDU1l7y6bTSAIwZ7t-2sJiw8Wzo6w-).
 
 ### Resourses
 
